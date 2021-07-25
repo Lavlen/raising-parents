@@ -215,7 +215,7 @@ h5 {
 
 /* @media queries */
 
-/* screen sizes 720px and less (smart phones) */
+/* screen sizes 950px and less (smart phones) */
 @media screen and (max-width: 950px) {
 
     body {
@@ -251,24 +251,11 @@ h5 {
         margin-bottom: 20px;
     }
 
-    .about-section {
-        padding: 0;
-    }
-
-    .inner-wrapper {
-        padding: 10%;
-        width: 100%;
-    }
-
-    .outer-wrapper {
-        width: 100%;
-    }
-
-    .leftcolumn,
-    .rightcolumn {
+    .leftcolumn, .rightcolumn {
         width: 100%;
         padding: 0;
         /*align-items: center;*/
         text-align: center;
     }
 }
+
