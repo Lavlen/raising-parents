@@ -94,5 +94,12 @@ nav a:hover {
   
 /* style index page - Right columns and images */
   
-  
+/* Add cards */
+.card {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+  }
+ 
+    
 
