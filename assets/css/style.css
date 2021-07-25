@@ -308,6 +308,19 @@ button:hover {
         margin-bottom: 20px;
     }
 
+    .about-section {
+		padding: 0;
+	}
+
+	.inner-wrapper {
+		padding: 10%;
+		width: 100%;
+	}
+    
+	.outer-wrapper {
+		width: 100%;
+	}
+
     .leftcolumn, .rightcolumn {
         width: 100%;
         padding: 0;
