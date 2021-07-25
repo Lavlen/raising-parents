@@ -31,6 +31,10 @@ h5 {
 	font-style: bold;
 }
 
+p {
+    text-align: justify;
+}
+
 #logo {
 	float: left;
 	margin-left: 20px;
