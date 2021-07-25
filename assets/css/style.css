@@ -188,3 +188,19 @@ summary {
 	color: #fff;
 	text-align: center;
 }
+/* style footer - social media links */
+
+.socialmedia {
+    text-align: center;
+}
+
+.socialmedia > li {
+    display: inline;
+}
+
+.socialmedia i {
+    font-size: 160%;
+    margin: 0px;
+    padding: 1%;
+    color: #fff;
+}
