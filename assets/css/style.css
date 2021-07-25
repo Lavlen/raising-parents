@@ -170,3 +170,21 @@ summary {
   display: table;
   clear: both;
 }
+
+/* Footer */
+
+.footer {
+	clear: both;
+	margin-bottom: 20px;
+	background-color: #262626;
+	height: 75px;
+	padding: 5px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer p {
+	margin: 0 auto;
+	color: #fff;
+	text-align: center;
+}
