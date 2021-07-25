@@ -34,7 +34,6 @@ h2, h3 {
 
 #logo {
 	float: left;
-	margin-left: 20px;
 	clear: both;
 }
 
@@ -44,6 +43,13 @@ h2, h3 {
 	height: auto;
 	width: 100%;
 	margin-top: 20px;
+}
+
+.nav-bar a h2 {
+	height: auto;
+	width: 100%;
+	margin: auto; 
+    margin-left: 10px;
 }
 
 /* navigation links */
@@ -72,14 +78,12 @@ nav a {
 }
 
 nav a:hover {
-	border-bottom: 1px solid #fff;
+	border-bottom: 1px solid #ff1b1c;
 }
 
 .active {
 	border-bottom: 1px solid #fff;
 }
 
-/* .nav-bar, #logo {
-    line-height: 75px;
-} */
+
 
