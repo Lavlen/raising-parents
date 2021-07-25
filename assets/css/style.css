@@ -177,6 +177,64 @@ h5 {
     clear: both;
 }
 
+/* aboutus page */
+
+.outerwrapper {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px 0 0 0;
+}
+
+.about-section {
+    margin-top: 2%;
+    background: url('../images/twoethnicgirlssmiling.png') no-repeat left;
+    background-size: 65%;
+	background-color: #262626;
+	overflow: hidden;
+	padding: 100px 0;
+}
+
+.inner-wrapper {
+    float: right;
+    width: 55%;
+    background-color: #fff;
+    padding: 35px;
+}
+
+.inner-wrapper h3 {
+    color: #545454;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.underline-whoweare {
+	height: 4px;	
+	width: 100%;
+	background-color: #ff1b1c;
+}
+
+.aboutus-text {
+    font-size: 13px;
+    color: #545454;
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+#btn-aboutus {
+    padding: 8px 10px;
+    border: none;
+    background-color: #ff1b1c;
+    color: #fff;
+    border-radius: 5px;
+}
+
+button:hover {
+	text-decoration: underline;
+}
+
 /* Footer */
 
 .footer {
