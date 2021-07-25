@@ -85,5 +85,14 @@ nav a:hover {
 	border-bottom: 1px solid #fff;
 }
 
+/* style index page - left columns */
 
+.main-content {   
+    float: left;
+    width: 75%;
+  }
+  
+/* style index page - Right columns and images */
+  
+  
 
