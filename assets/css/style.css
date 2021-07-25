@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Playfair+Display&display=swap');
-    
+
 body {
-	font-family: 'Open Sans','Playfair Display', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	background-color: #acbfa4;
 	font-size: 87.5;
@@ -12,3 +12,17 @@ body {
 	margin: 0 auto;
 	clear: both;
 }
+
+/* headings and logo */
+
+h2, h3 {
+    font-family: 'Playfair Display', sans-serif;
+	color: #fff;
+}
+
+#logo {
+	float: left;
+	margin-left: 20px;
+	clear: both;
+}
+
