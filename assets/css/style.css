@@ -235,6 +235,87 @@ button:hover {
 	text-decoration: underline;
 }
 
+/* scenarios page */
+
+/* .scenario-wrapper {
+	background-color: #fff;
+	padding: 20px;
+	margin-top: 20px;
+	color: #fff;
+} */
+
+#scenario-wrapper h2 {
+	text-align: center;
+}
+
+.scenarios {
+	margin: 10px 0 ;
+}
+
+.other-wrapper {
+	max-width: 80%;
+	background-color: rgba(0, 0, 0, 0.5);
+	margin: auto;
+	border-radius: 10px;
+	margin-top: 20px;
+	padding: 20px;
+}
+
+/* .top-wrapper h3{
+	font-size: 18px;
+	margin-bottom: 35px;
+	color: blue;
+	font-weight: 400;
+} */
+
+.top-wrapper p {
+	font-size: 18px;
+	margin-bottom: 10px;
+	color: blue;
+	font-weight: 300;
+}
+
+#btn-quiz {
+	border-radius: 5px;
+	font-size: 16px;
+	margin: 15px;
+	padding: 10px 25px;
+	background-color: #ff1b1c;
+	color: #fff;
+}
+
+.quiz-wrapper .question-number {
+	font-size: 18px;
+	color: #acbfa4;
+	border-bottom: 1px solid #fff;
+	padding-bottom: 5px;
+}
+
+.quiz-wrapper .scenarios {
+	color: #fff;
+	font-weight: 400;
+	font-style: italic;
+	padding-top: 5px;
+}
+
+.quiz-wrapper .option-box .option {
+	background-color: #fff;
+	padding: 10px;
+	line-height: 22px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	color: #3a3a3a;
+}
+
+span {
+	color: #ff1b1c;
+	font-weight: 800;
+}
+
+#scenario-wrapper p {
+    color: white;
+} 
+
 /* Footer */
 
 .footer {
