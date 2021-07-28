@@ -47,7 +47,7 @@ The owners of the site want parents to be more successful at raising children an
 *   Online IDE used for processing the code.
 
 ##  Hardware
-*   
+*      
 
 # Credits
 *	Code for the contactus page came from [this here](https://www.youtube.com/watch?v=aPnEAVo3z-I&t=1162s)
