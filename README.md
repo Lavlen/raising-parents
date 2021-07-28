@@ -25,6 +25,30 @@ The owners of the site want parents to be more successful at raising children an
 14. As a returning user I want to see fresh content frequently but be able to access old posts
 15. As a first time user I should be able to access the site owners social media to learn more about them
 
+# Technologies
+##    Languages
+*   HTML5
+*   CSS3
+
+##  Programs and tools used
+### Google Fonts
+*   Both fonts used throughout the site "Playfair Display" and "Open Sans" were sourced from Google fonts.
+
+### Photo Shop
+*   Photo shop was used for image sizing and for writing the text used on the image in the aboutus page. 
+
+### Draw.io
+*   Wireframes were developed in the design phase of the project.
+
+### Git
+*   Online version control platform used for recording changes made to the code by storing it in a repository
+
+### Gitpod
+*   Online IDE used for processing the code.
+
+##  Hardware
+*   
+
 # Credits
 *	Code for the contactus page came from [this here](https://www.youtube.com/watch?v=aPnEAVo3z-I&t=1162s)
 
