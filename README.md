@@ -9,21 +9,21 @@ The owners of the site want parents to be more successful at raising children an
 
 ## User Stories 
 
-1.  As a user I want to be able to access the site on my tablet, phone or home desktop computer
-2.	As a user I want to see imagery on the site that is relevant to what the site is about
-3.	As a visitor to the site I want to see quality content, so that I will want to visit the site again.
-4.	AS a user I want to be able to understand easily how to find my way around the site.
-5.	AS a user I want to access tips and advice about relevant issues parents have to deal with
-6.	As a user I need to have access to other resources on the subjects being talked about.
-7.	As a user I want to be able to share my experience and read others experiences
-8.	As a parent I want to see information relevant to my child’s age
-9.	As a parent I would like to test my decision-making skills regarding common challenges parents face with their children
-10.	As a guardian I want to know I can trust the information given on a site
-11.	As a novice system user I want to be prompted if I enter invalid information into an input field.
-12.	As a sponsor I want to tell my audience about me, I want them to know the motivation behind the site and what my main objective is. 
-13.	Visitors who want to request content or provide information must provide a valid email address, their names 
-14. As a returning user I want to see fresh content frequently but be able to access old posts
-15. As a first time user I should be able to access the site owners social media to learn more about them
+* As a user I want to be able to access the site on my tablet, phone or home desktop computer
+* As a user I want to see imagery on the site that is relevant to what the site is about
+* As a visitor to the site I want to see quality content, so that I will want to visit the site again.
+* As a user I want to be able to understand easily how to find my way around the site.
+* As a user I want to access tips and advice about relevant issues parents have to deal with
+* As a user I need to have access to other resources on the subjects being talked about.
+* As a user I want to be able to share my experience and read others experiences
+* As a parent I want to see information relevant to my child’s age
+* As a parent I would like to test my decision-making skills regarding common challenges parents face with their children
+* As a guardian I want to know I can trust the information given on a site
+* As a novice system user I want to be prompted if I enter invalid information into an input field.
+* As a sponsor I want to tell my audience about me, I want them to know the motivation behind the site and what my main objective is. 
+* Visitors who want to request content or provide information must provide a valid email address, their names 
+* As a returning user I want to see fresh content frequently but be able to access old posts
+* As a first time user I should be able to access the site owners social media to learn more about them
 
 # Technologies
 ##    Languages
@@ -48,6 +48,29 @@ The owners of the site want parents to be more successful at raising children an
 
 ##  Hardware
 *      
+# Testing
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+#   User Requirements Testing
+
+## As a user I want to be able to access the site on my tablet, phone or home desktop computer.
+The site is designed to automatically adjust to the size of the viewpoint being used to access it. The fluid web design functionality ensures Smart phones and tablets can enjoy the same usability as that available on larger devices. 
+
+As a user I want to see imagery on the site that is relevant to what the site is about
+As a visitor to the site I want to see quality content, so that I will want to visit the site again.
+As a user I want to be able to understand easily how to find my way around the site.
+As a user I want to access tips and advice about relevant issues parents have to deal with
+As a user I need to have access to other resources on the subjects being talked about.
+As a user I want to be able to share my experience and read others experiences
+As a parent I want to see information relevant to my child’s age
+As a parent I would like to test my decision-making skills regarding common challenges parents face with their children
+As a guardian I want to know I can trust the information given on a site
+As a novice system user I want to be prompted if I enter invalid information into an input field.
+As a sponsor I want to tell my audience about me, I want them to know the motivation behind the site and what my main objective is. 
+* Visitors who want to request content or provide information must provide a valid email address, their names 
+* As a returning user I want to see fresh content frequently but be able to access old posts
+* As a first time user I should be able to access the site owners social media to learn more about them
+
 
 # Credits
 *	Code for the contactus page came from [this here](https://www.youtube.com/watch?v=aPnEAVo3z-I&t=1162s)
