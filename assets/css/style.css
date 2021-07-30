@@ -553,5 +553,6 @@ textarea {
 
     .outer-wrapper {
         width: 100%;
+        margin: auto;
     }
 }
