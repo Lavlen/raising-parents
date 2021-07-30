@@ -27,6 +27,20 @@ The owners of the site want parents to be more successful at raising children an
 * As a returning user I want to see fresh content frequently but be able to access old posts
 * As a first time user I should be able to access the site owners social media to learn more about them
 
+# Design
+## Color scheme
+The colors used in the sites layout is intended to make it sophisticated, neutral and interesting. Shades of grey are the main colors used throughout the site, which sits on top of the site's Laurel Green background. The navigation bar and footer are black with an opacity set at 0.5. The main font colors are a mixture of dark gray and white which makes reading lots of text less taxing on the eyes. There is a shade of red used for underlining text and various function buttons within the site that complements the soft colors and adds to the sites personility.
+
+## Typography
+Playfair Display" and "Open Sans" with "Sans serif" as the fall back font incase the browser does not support the primary font choices.
+
+## Images
+Bright colored images that are relevant to the site are used throughout to make the site interesting and attractive. The large banner image stands out at the top of the page, intended to grab the visitor's attention when the site loads.
+
+## Wireframes
+
+How to Add Wire frames?
+
 # Technologies
 ##    Languages
 *   HTML5
