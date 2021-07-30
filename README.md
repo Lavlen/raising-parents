@@ -109,6 +109,22 @@ The site's contactus page enables visitors to ask questions, share experiences a
 
 ### As a first time user I should be able to access the site owners social media to learn more about them
 
+#   Deployment
+### GitHub pages is being used to host the website, deployed directly from the Github repository by:
+
+1.  Login to Github
+2.  Click on the repository with the project to be deployed
+3.  Select the setting options top center right of the page
+4.  Scroll down to the GitHub pages section of the page
+5.  click on the link "Pages settings now has its own dedicated tab! Check it out here!"
+6.  Tell Github where to find the code to deploy from by clicking the drop down list box "None"
+7.  Select "main" and click "save"
+8.  Scroll to the bottom of the refreshed page to the section GitHub pages.
+9.  Click on the link next to the text "your site is now ready to be published"
+
+##  Forking the Gihub repository
+
+##  Making a local clone
 
 # Credits
 *	Code for the contactus page came from [this here](https://www.youtube.com/watch?v=aPnEAVo3z-I&t=1162s)
