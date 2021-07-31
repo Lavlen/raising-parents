@@ -190,7 +190,7 @@ h5 {
 
 .about-section {
     margin-top: 2%;
-    background: url('../images/twoethnicgirlssmiling.png') no-repeat left fixed;
+    background: url('../images/piggyback.png') no-repeat left fixed;
     background-size: 65%;
     background-color: rgba(0, 0, 0, 0.5);
     overflow: hidden;
@@ -238,12 +238,12 @@ button:hover {
 
 /* scenarios page */
 
-/* .scenario-wrapper {
-	background-color: #fff;
-	padding: 20px;
+ #scenario-wrapper {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
 	margin-top: 20px;
-	color: #fff;
-} */
+
+} 
 
 #scenario-wrapper h2 {
     text-align: center;
@@ -433,7 +433,6 @@ textarea {
     border-radius: 5px;
 }
 
-
 /* @media queries */
 
 /* screen sizes 950px and less (smart phones) */
@@ -494,9 +493,9 @@ textarea {
     }
 
     #scenario-wrapper {
-        background-color: #fff;
+        background-color: rgba(0, 0, 0, 0.5);
         padding: 10px;
-        margin-top: 160px;
+        margin-top: 20px;
         color: #fff;
     }
 
@@ -513,8 +512,7 @@ textarea {
         padding-bottom: 20px;
         color: #fff;
     }
-  
-    
+   
 }
 
 /* @media queries */
@@ -555,7 +553,6 @@ textarea {
         width: 100%;
         margin: auto;
     }
-
 }
 
     /* @media queries */
@@ -568,6 +565,20 @@ textarea {
         padding: 0;
         /*align-items: center;*/
         text-align: center;
+    } 
+
+}
+
+ /* @media queries */
+
+/* screen sizes 950px and less (ipads) */
+@media screen and (max-width: 760px) {
+    #scenario-wrapper {
+        margin-top: 160px;
     }
 
+    .img-girlsittinginbed {
+        margin-top: 160px;
+    }
+    
 }
