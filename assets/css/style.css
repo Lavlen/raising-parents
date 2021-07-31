@@ -544,7 +544,6 @@ textarea {
     .rightcolumn {
         width: 100%;
         padding: 0;
-        /*align-items: center;*/
         text-align: center;
     }
 
@@ -554,13 +553,17 @@ textarea {
 
 /* screen sizes 950px and less (ipads) */
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 720px) {
     #scenario-wrapper {
-        margin-top: 160px;
+        margin-top: 180px;
     }
 
     .img-girlsittinginbed {
-        margin-top: 160px;
+        margin-top: 180px;
+    }
+
+    nav {
+        margin-bottom: 100px;
     }
 
 }
