@@ -36,7 +36,7 @@ p {
 
 #logo {
     float: left;
-    margin-left: 20px;
+    margin-left: 10px;
     clear: both;
 }
 
@@ -79,7 +79,7 @@ nav ul li {
 nav a {
     color: #fff;
     display: inline-block;
-    padding: 10px 10px 0;
+    padding: 10px 3px 2px;
     text-decoration: none;
 }
 
@@ -117,8 +117,6 @@ summary {
     width: 100%;
     padding: 15px;
     background: url('../images/teencrying.jpg') no-repeat center center;
-
-
 }
 
 #rightcol-img1 h5 {
@@ -152,17 +150,15 @@ summary {
 /* Add cards */
 .card {
     background-color: #fff;
-    padding: 20px;
+    padding: 12px;
     margin-top: 20px;
 }
 
-.card h2,
-h3 {
+.card h2, h3 {
     color: #3a3a3a;
 }
 
-.card a,
-h5 {
+.card a, h5 {
     text-decoration: none;
     color: #fff;
     font-weight: 800;
@@ -217,15 +213,10 @@ h5 {
 }
 
 .aboutus-text {
-    font-size: 13px;
-    color: #545454;
+    font-size: 14px;
     line-height: 30px;
     text-align: justify;
     margin-bottom: 10px;
-}
-
-button:hover {
-    text-decoration: underline;
 }
 
 /* scenarios page */
@@ -253,13 +244,6 @@ button:hover {
     margin-top: 20px;
     padding: 20px;
 }
-
-/* .top-wrapper h3{
-	font-size: 18px;
-	margin-bottom: 35px;
-	color: blue;
-	font-weight: 400;
-} */
 
 .top-wrapper p {
     font-size: 18px;
@@ -345,6 +329,7 @@ span {
 }
 
 /* style contactus form  */
+
 .heading {
     text-align: center;
     width: 100%;
@@ -427,7 +412,7 @@ textarea {
 
 /* @media queries */
 
-/* screen sizes 950px and less (smart phones) */
+/* screen sizes 720px and less (smart phones) */
 @media screen and (max-width: 720px) {
 
     body {
@@ -481,7 +466,6 @@ textarea {
     .rightcolumn {
         width: 100%;
         padding: 0;
-        /*align-items: center;*/
         text-align: center;
     }
 
@@ -505,13 +489,12 @@ textarea {
         padding-bottom: 20px;
         color: #fff;
     }
-
-
 }
 
 /* @media queries */
 
-/* screen sizes 1200px and less (ipads) */
+/* screen sizes 960px and less (ipads) */
+
 @media screen and (max-width: 960px) {
 
     body {
@@ -554,6 +537,7 @@ textarea {
 /* @media queries */
 
 /* screen sizes 950px and less (ipads) */
+
 @media screen and (max-width: 960px) {
 
     .leftcolumn,
@@ -566,9 +550,10 @@ textarea {
 
 }
 
-/* @media queries */
+/* @media queries for scenarios and contactus pages */
 
 /* screen sizes 950px and less (ipads) */
+
 @media screen and (max-width: 760px) {
     #scenario-wrapper {
         margin-top: 160px;

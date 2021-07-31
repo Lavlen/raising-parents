@@ -11,15 +11,16 @@
     <title>Raising Parents</title>
 </head>
 
+<!--Banner image-->
 <body>
     <div id="banner">
     </div>
 
+    <!--Header and navigation bar-->
     <header class="nav-bar">
         <div id="logo">
             <h2>RaisingParents</h2>
         </div>
-
         <nav>
             <ul>
                 <li><a href="aboutus.html"><i class="fas fa-info-circle"></i> About us </i></a></li>
@@ -29,20 +30,26 @@
             <ul>
         </nav>
     </header>
+
+    <!--Form header and wrapper image-->
     <div class="img-girlsittinginbed">
         <div class="heading">
             <h2 id="subject-header"> Raising Parents Contact Form </h2>
         </div>
+
+        <!--Form-->
         <form>
             <div id="wrapper">
-                <label>First name</label> <br><br>
+                <label for="fname">First name</label> <br><br>
                 <input type="name" name="fname" placeholder="Enter first name" class="input-field" required> <br><br>
-                <label>Last name</label> <br><br>
+                <label for="lname">Last name</label> <br><br>
                 <input type="name" name="lname" placeholder="Enter last name" class="input-field" required> <br><br>
-                <label>Age</label> <br><br>
+                <label for="age">Age</label> <br><br>
                 <input type="age" name="age" placeholder="Enter your age" class="input-field"> <br><br>
-                <label>Email</label> <br><br>
+                <label for="email">Email</label> <br><br>
                 <input type="email" name="email" placeholder="Enter your email" class="input-field" required> <br><br>
+                
+                <!--Dropdown list box to select number of kid-->
                 <label>How many children are you the parent/gaurdian of?</label><br><br>
                 <div id="option-1">
                     <select>
@@ -50,8 +57,10 @@
                         <option value="1 child">1 child</option>
                         <option value="2 children">2 children</option>
                         <option value="3 or more children">3 or more children</option>
-                    </select><br><br>
+                    </select><br><br> 
                 </div>
+                    
+                <!--Dropdown list box to select kids age range-->
                 <label>What are their ages?</label>
                 <div id="option-2">
                     <select>
@@ -62,6 +71,8 @@
                         <option value="1 to 19">1 to 19</option>
                     </select><br><br>
                 </div>
+
+                <!--Message box and submit button-->
                 <label for="message">Message</label>
                 <br><br>
                 <textarea id="feedback" name="feedback" placeholder="Your Message" rows="10" cols="53"></textarea><br>
@@ -69,32 +80,35 @@
             </div>
         </form>
     </div>
+    <!--Footer element with social media links-->
     <footer>
         <div class="footer">
             <p>Copyright &copy; 2021 Lavin Lennon</p>
-            <ul class="socialmedia">
-                <li>
-                    <a href="https://facebook.com" target="_blank" rel="noopener"
-                        aria-label="Checkout our Facebook page (opens in a new tab)"><i
-                            class="fab fa-facebook-square"></i></a>
-                </li>
-                <li>
-                    <a href="https://twitter.com" target="_blank" rel="noopener"
-                        aria-label="Checkout our Twitter page (opens in a new tab)"><i class="fab fa-twitter"></i></a>
-                </li>
-                <li>
-                    <a href="https://youtube.com" target="_blank" rel="noopener"
-                        aria-label="Checkout our YouTube page (opens in a new tab)"><i
-                            class="fab fa-youtube-square"></i></a>
-                </li>
-                <li>
-                    <a href="https://instagram.com" target="_blank" rel="noopener"
-                        aria-label="Checkout our instagram page (opens in a new tab)"><i
-                            class="fab fa-instagram-square"></i></a>
-                </li>
-            </ul>
+                <ul class="socialmedia">
+                    <li>
+                        <a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Checkout our Facebook page (opens in a new tab)">
+                            <i class="fab fa-facebook-square"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com" target="_blank" rel="noopener" aria-label="Checkout our Twitter page (opens in a new tab)">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="Checkout our YouTube page (opens in a new tab)"><i
+                                class="fab fa-youtube-square"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Checkout our instagram page (opens in a new tab)"><i
+                                class="fab fa-instagram-square"></i>
+                        </a>
+                    </li>
+                </ul>
     </footer>
-    <!-- font awesome script -->
+   
+    <!-- Font awesome script -->
     <script src="https://kit.fontawesome.com/c7dbda0798.js" crossorigin="anonymous"></script>
 </body>
 
