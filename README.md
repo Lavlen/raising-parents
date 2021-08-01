@@ -83,8 +83,6 @@ Bright colored images that are relevant to the site are used throughout to make 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 *   [Link to screenshots of 4 html and 1 CSS validated pages](https://lavlen.github.io/raising-parents/testing/aboutus-w3cvalidation.png)
 
-
-
 #   User Requirements Testing
 
 ### As a user I want to be able to access the site on my tablet, phone or home desktop computer.
@@ -127,6 +125,21 @@ The site's contactus page enables visitors to ask questions, share experiences a
 
 ### As a first time user I should be able to access the site owners social media to learn more about them
 
+## Further testing
+
+The site was tested on a variety of browser types to check if the site displayed as it should and if the all functionalities worked properly. Google Chrome, Microsoft Edge, Internet Explorer and Safari .
+
+The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, Samsung Galaxy S7 and S9, iPhones 7 & iPhoneX.
+Testing was conducted to ensure all pages were linking correctly.
+
+User testing was carried out by Friends and family members in an effort to locate known bugs and or user experience issues.
+
+### Known Bugs
+
+* Side bars on index page are presented as blocked items
+* Test on sidebar images are not easily seen.
+* Social media icons rendered with blue blemish between icons
+
 #   Deployment
 ### GitHub pages is being used to host the website, deployed directly from the Github repository by:
 
@@ -142,7 +155,19 @@ The site's contactus page enables visitors to ask questions, share experiences a
 
 ##  Forking the Gihub repository
 
+N/A
+
 ##  Making a local clone
+
+1.  Login to Github
+2.  Click on the repository with the project to be deployed
+3.  Select the drop down list box "Clone"
+4.  Select HTTPS
+5.  Click on icon next to link to copy
+6.  Go to Gitpod command line
+7.  type git clone 
+8.  past copied url
+9.  Press enter
 
 # Credits
 *	Code for the contactus page came from [this here](https://www.youtube.com/watch?v=aPnEAVo3z-I&t=1162s)
