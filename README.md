@@ -84,7 +84,7 @@ Wireframes were developed in the design phase of the project.
 *      
 # Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-*   [Link to screenshots of 4 html and 1 CSS validated pages](https://lavlen.github.io/raising-parents/testing/
+*   [Link to screenshots of 4 html and 1 CSS validated pages](https://lavlen.github.io/raising-parents/testing)
 
 #   Testing User Stories (UX)
 
