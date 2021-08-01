@@ -11,7 +11,7 @@ body {
     font-family: 'Playfair Display', 'Open Sans', sans-serif;
     font-weight: 300;
     background-color: #acbfa4;
-    font-size: 87.5;
+    font-size: 14.5px;
     color: #3a3a3a;
     line-height: 1.5;
     text-align: left;
@@ -20,14 +20,12 @@ body {
     clear: both;
 }
 
-h2,
-h3 {
+h2, h3 {
     color: #fff;
 }
 
 h5 {
     color: #fff;
-    font-style: bold;
 }
 
 p {
@@ -148,6 +146,7 @@ summary {
 }
 
 /* Add cards */
+
 .card {
     background-color: #fff;
     padding: 12px;
@@ -413,6 +412,7 @@ textarea {
 /* @media queries */
 
 /* screen sizes 720px and less (smart phones) */
+
 @media screen and (max-width: 720px) {
 
     body {

@@ -23,11 +23,11 @@
         </div>
         <nav>
             <ul>
-                <li><a href="aboutus.html"><i class="fas fa-info-circle"></i> About us </i></a></li>
+                <li><a href="aboutus.html"><i class="fas fa-info-circle"></i> About us</a></li>
                 <li><a href="scenarios.html"><i class="far fa-question-circle"></i> Scenarios</a></li>
-                <li><a href="contactus.html"><i class="far fa-address-card"></i> Contact</i></a></li>
+                <li><a href="contactus.html"><i class="far fa-address-card"></i> Contact</a></li>
                 <li><a href="index.html"><i class="fas fa-home"></i> Home</a></li>
-            <ul>
+            </ul>
         </nav>
     </header>
 
@@ -41,19 +41,19 @@
         <form>
             <div id="wrapper">
                 <label for="fname">First name</label> <br><br>
-                <input type="name" name="fname" placeholder="Enter first name" class="input-field" required> <br><br>
+                <input type="text" name="fname" id="fname" placeholder="Enter first name" class="input-field" required> <br><br>
                 <label for="lname">Last name</label> <br><br>
-                <input type="name" name="lname" placeholder="Enter last name" class="input-field" required> <br><br>
+                <input type="text" name="lname" id="lname" placeholder="Enter last name" class="input-field" required> <br><br>
                 <label for="age">Age</label> <br><br>
-                <input type="age" name="age" placeholder="Enter your age" class="input-field"> <br><br>
+                <input type="number" name="age" id="age" placeholder="Enter your age" class="input-field"> <br><br>
                 <label for="email">Email</label> <br><br>
-                <input type="email" name="email" placeholder="Enter your email" class="input-field" required> <br><br>
+                <input type="email" name="email" id="email" placeholder="Enter your email" class="input-field" required> <br><br>
                 
                 <!--Dropdown list box to select number of kid-->
                 <label>How many children are you the parent/gaurdian of?</label><br><br>
                 <div id="option-1">
-                    <select>
-                        <option name="Choose from list">Choose from list</option>
+                    <select id="childrensage">
+                        <option id="choosefromlist">Choose from list</option>
                         <option value="1 child">1 child</option>
                         <option value="2 children">2 children</option>
                         <option value="3 or more children">3 or more children</option>
@@ -64,7 +64,7 @@
                 <label>What are their ages?</label>
                 <div id="option-2">
                     <select>
-                        <option name="Choose from list">Choose from list</option>
+                        <option id="Choosefromlist">Choose from list</option>
                         <option value="1 to 5">1 to 5</option>
                         <option value="6 to 10">6 to 10</option>
                         <option value="11 to 19">11 to 19</option>
@@ -75,7 +75,7 @@
                 <!--Message box and submit button-->
                 <label for="message">Message</label>
                 <br><br>
-                <textarea id="feedback" name="feedback" placeholder="Your Message" rows="10" cols="53"></textarea><br>
+                <textarea id="message" name="feedback" placeholder="Your Message" rows="10" cols="53"></textarea><br>
                 <button id="btn-contactus">Send form</button>
             </div>
         </form>
@@ -106,6 +106,7 @@
                         </a>
                     </li>
                 </ul>
+        </div>     
     </footer>
    
     <!-- Font awesome script -->
