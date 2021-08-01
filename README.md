@@ -81,7 +81,7 @@ Bright colored images that are relevant to the site are used throughout to make 
 *      
 # Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-*   [Link to screenshots of 4 html and 1 CSS validated pages](https://lavlen.github.io/raising-parents/testing/)
+*   [Link to screenshots of 4 html and 1 CSS validated pages](https://lavlen.github.io/raising-parents/testing/aboutus-w3cvalidation.png)
 
 
 
