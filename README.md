@@ -39,7 +39,22 @@ Bright colored images that are relevant to the site are used throughout to make 
 
 ## Wireframes
 
-[Draw.io](https://app.diagrams.net/) was used to create the [wireframes](https://lavlen.github.io/raising-parents/wireframes/)
+[Draw.io](https://app.diagrams.net/) was used to create the wireframes:
+
+* [Index page desktop](https://lavlen.github.io/raising-parents/wireframes/index-desktop.png)
+* [Contactus page desktop](https://lavlen.github.io/raising-parents/wireframes/contactus-desktop.png)
+* [Scenarios page desktop](https://lavlen.github.io/raising-parents/wireframes/scenarios-desktop.png)
+* [Aboutus page desktop](https://lavlen.github.io/raising-parents/wireframes/about-desktop.png)
+
+* [Index page tablet](https://lavlen.github.io/raising-parents/wireframes/index-tablet.png)
+* [Contactus page tablet](https://lavlen.github.io/raising-parents/wireframes/contactus-tablet.png)
+* [Scenarios page tablet](https://lavlen.github.io/raising-parents/wireframes/scenarios-tablet.png)
+* [Aboutus page tablet](https://lavlen.github.io/raising-parents/wireframes/aboutus-desktop.png)
+
+* [Index page smartphone](https://lavlen.github.io/raising-parents/wireframes/index-smartphone.png)
+* [Contactus page smartphone](https://lavlen.github.io/raising-parents/wireframes/contactus-smartphone.png)
+* [Scenarios page smartphone](https://lavlen.github.io/raising-parents/wireframes/scenario-smartphone.png)
+* [Aboutus page desktop](https://lavlen.github.io/raising-parents/wireframes/aboutus-smartphone.png)
 
 # Technologies
 ##    Languages
