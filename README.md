@@ -39,7 +39,7 @@ Bright colored images that are relevant to the site are used throughout to make 
 
 ## Wireframes
 
-[Draw.io](https://app.diagrams.net/) was used to create the [wireframes](https://lavlen.github.io/raising-parents/wireframes/about-desktop.png)
+[Draw.io](https://app.diagrams.net/) was used to create the [wireframes](https://lavlen.github.io/raising-parents/wireframes/)
 
 # Technologies
 ##    Languages
