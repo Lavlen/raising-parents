@@ -7,7 +7,7 @@ The owners of the site want parents to be more successful at raising children an
 
 # User Experience 
 
-<img src="/workspace/raising-parents/assets/images/website-responsiveness-image.PNG" style="max-width:50%;">
+<img src="https://lavlen.github.io/raising-parents/assets/images/website-responsiveness-image.PNG" style="max-width:50%;">
 
 ## User Stories 
 
@@ -39,7 +39,7 @@ Bright colored images that are relevant to the site are used throughout to make 
 
 ## Wireframes
 
-How to Add Wire frames?
+[Draw.io](https://app.diagrams.net/) was used to create the [wireframes](https://lavlen.github.io/raising-parents/wireframes/about-desktop.png)
 
 # Technologies
 ##    Languages
